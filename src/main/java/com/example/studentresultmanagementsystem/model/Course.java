@@ -39,5 +39,6 @@ public class Course {
                 "id=" + id +
                 ", courseName='" + courseName + '\'' +
                 '}';
+
     }
 }
